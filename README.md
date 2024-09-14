@@ -47,7 +47,7 @@ Open your web browser and go to `http://localhost:5000`. You will see the web in
 - **Backend**: Flask (Python)
 - **Machine Learning Models**: Scikit-learn, NLP techniques
 - **APIs**: Flask API for seamless interaction between backend and frontend
-- **Deployment**: Docker (Optional for containerized deployment)
+- **Deployment**: Docker (containerized deployment)
 
 ## Future Improvements
 - Add more recommendation approaches (e.g., matrix factorization).
