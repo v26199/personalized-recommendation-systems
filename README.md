@@ -16,7 +16,7 @@ The project leverages Natural Language Processing (NLP) and Machine Learning (ML
 
 ### 1. Clone the Repository
 ```bash
-git clone (https://github.com/v26199/personalized-recommendation-systems/edit/main)
+git clone (https://github.com/v26199/personalized-recommendation-systems)
 cd personalized-recommendation-systems
 ```
 
